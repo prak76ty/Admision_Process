@@ -1,0 +1,12 @@
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\bin\Release\School_Admission_System.exe
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\bin\Release\School_Admission_System.pdb
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\bin\Release\School_Admission_System.xml
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Release\ResolveAssemblyReference.cache
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Release\School_Admission_System.Enquiry_Master.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Release\School_Admission_System.Form1.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Release\School_Admission_System.Form3.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Release\School_Admission_System.Resources.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Release\School_Admission_System.vbproj.GenerateResource.Cache
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Release\School_Admission_System.exe
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Release\School_Admission_System.xml
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Release\School_Admission_System.pdb

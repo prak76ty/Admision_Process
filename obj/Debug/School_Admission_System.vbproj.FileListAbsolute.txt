@@ -1,0 +1,107 @@
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.exe
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.xml
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.pdb
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\bin\Debug\School_Admission_System.exe
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\bin\Debug\School_Admission_System.pdb
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\bin\Debug\School_Admission_System.xml
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\ResolveAssemblyReference.cache
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.EnQuiryMaster.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Form1.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Form3.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Resources.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.vbproj.GenerateResource.Cache
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Admission_Master.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Class_Master.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Fee_Receipt_Master.resources
+K:\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.exe
+K:\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.xml
+K:\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.pdb
+K:\School_Admission_System\School_Admission_System\bin\Debug\School_Admission_System.exe
+K:\School_Admission_System\School_Admission_System\bin\Debug\School_Admission_System.pdb
+K:\School_Admission_System\School_Admission_System\bin\Debug\School_Admission_System.xml
+K:\School_Admission_System\School_Admission_System\obj\Debug\ResolveAssemblyReference.cache
+K:\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Admission_Master.resources
+K:\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Class_Master.resources
+K:\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.EnQuiryMaster.resources
+K:\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Fee_Receipt_Master.resources
+K:\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Form1.resources
+K:\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Form3.resources
+K:\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Resources.resources
+K:\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.vbproj.GenerateResource.Cache
+E:\POONAM YEOLE\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.exe
+E:\POONAM YEOLE\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.xml
+E:\POONAM YEOLE\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.pdb
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.EXAM_FORM.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.LEAVING_MASTER.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Student_Master.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Attendance.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.mdi.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmRptAdmission.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.StudAttendance.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptStudAttendance.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptClassMaster.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptEnquiryMaster.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptFeesMaster.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptLeavingMaster.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptStuMaster.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptTeacherMaster.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptAttendance.resources
+E:\Poonam_Yeole\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptExam.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.exe
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.xml
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.pdb
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Admission_Master.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Attendance.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Class_Master.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.EnQuiryMaster.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.EXAM_FORM.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Fee_Receipt_Master.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmRptAdmission.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptAttendance.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptClassMaster.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptEnquiryMaster.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptExam.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptFeesMaster.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptLeavingMaster.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptStuMaster.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.frmrptTeacherMaster.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.LEAVING_MASTER.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Form1.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.mdi.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Student_Master.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Form3.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.Resources.resources
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\obj\Debug\School_Admission_System.vbproj.GenerateResource.Cache
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\bin\Debug\School_Admission_System.exe
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\bin\Debug\School_Admission_System.pdb
+C:\Users\swami\Desktop\Pachora\JADHAV DNYANESHWAR\School_Admission_System\School_Admission_System\bin\Debug\School_Admission_System.xml
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.exe
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.xml
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.pdb
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\bin\Debug\School_Admission_System.exe
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\bin\Debug\School_Admission_System.pdb
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\bin\Debug\School_Admission_System.xml
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\ResolveAssemblyReference.cache
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.Admission_Master.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.Attendance.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.Class_Master.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.EnQuiryMaster.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.EXAM_FORM.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.Fee_Receipt_Master.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.frmRptAdmission.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.frmrptAttendance.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.frmrptClassMaster.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.frmrptEnquiryMaster.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.frmrptExam.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.frmrptFeesMaster.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.frmrptLeavingMaster.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.frmrptStuMaster.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.frmrptTeacherMaster.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.LEAVING_MASTER.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.Form1.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.mdi.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.Student_Master.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.Form3.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.Resources.resources
+D:\Asmita\JADHAV DNYANESHWAR\School_Admission_System\obj\Debug\School_Admission_System.vbproj.GenerateResource.Cache
